@@ -1,20 +1,21 @@
+import pandas as pd
 
-#Libraries you may need:
-import csv, collections, dictionary, (pandas as pd), urlopen, etc..
-
-#classes and Functions to implement
 class SchoolAssessmentSystem:
-    def __init__():
+   def __init__(self,student_name, average_score, grade):
+      self.student_name = student_name
+      self.average_score = average_score
+      self.grade = grade
+   def process_file():         
+      file_path = "all_semester.csv"  # Replace with your file path
+      df = pd.read_csv(file_path)
 
-    def process_file():            
+   # def transfer_data():
+      
+   # def fetch_web_data():
 
-    def transfer_data():
+   # def analyze_content():
 
-    def fetch_web_data():
-
-    def analyze_content():
-
-    def generate_summary():
+   # def generate_summary():
 
 
 # Analyze content & display result area

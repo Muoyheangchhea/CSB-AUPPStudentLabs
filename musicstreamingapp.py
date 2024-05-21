@@ -19,32 +19,32 @@ Data structures to consider:
 """
 # Prototype code, you can follow different implementation process
 
-class Song:
-    def __init__(self, title, artist, album, genre, length):
+# class Song:
+#     def __init__(self, title, artist, album, genre, length):
 
-class MusicLibrary:
-    def __init__(self):
+# class MusicLibrary:
+#     def __init__(self):
 
-    def add_song(self, song):
+#     def add_song(self, song):
       
-    def get_songs_by_artist(self, artist):
+#     def get_songs_by_artist(self, artist):
 
-    def get_songs_by_album(self, album):
+#     def get_songs_by_album(self, album):
         
-    def get_songs_by_genre(self, genre):
+#     def get_songs_by_genre(self, genre):
       
-    def get_songs_by_title(self, title):
+#     def get_songs_by_title(self, title):
 
-class Playlist:
-    def __init__(self, name):
+# class Playlist:
+#     def __init__(self, name):
 
-    def add_song(self, song):
+#     def add_song(self, song):
 
-    def remove_song(self, song):
+#     def remove_song(self, song):
 
-    def reorder_songs(self, new_order):
+#     def reorder_songs(self, new_order):
 
-    def display_playlist(self):
+#     def display_playlist(self):
 
 # Main Requirement:
 # Create song example
@@ -57,9 +57,9 @@ class Playlist:
 # Searching for songs by artist
 
 # Sample Output:
-Playlist: My Playlist 1
-1. Song 1 - Artist 1
-2. Song 2 - Artist 2
+# Playlist: My Playlist 1
+# 1. Song 1 - Artist 1
+# 2. Song 2 - Artist 2
 
-Songs by Artist 1:
-Song 1 - Album 1
+# Songs by Artist 1:
+# Song 1 - Album 1
